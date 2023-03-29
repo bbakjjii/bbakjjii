@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=90" />	
 </div>
 
-<div align=center>
+<div align=left>
 	<h3> 👩‍💻 ABOUT ME 👩‍💻 </h3>
 	<p> 🐵 이름 : 박지영</p>
 	<p> 🍰 생년월일 : 92.02.28 </p>
