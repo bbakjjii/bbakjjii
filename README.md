@@ -26,7 +26,7 @@
 </div>
 <br>
 <div align=left>
-	<p bold="weight">🛠 Tools 🛠</p>
+	<<h3>>🛠 Tools 🛠
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -37,7 +37,7 @@
 </div>
 <br>
 <div align=left>
-	<p bold="weight">🎨 SNS & Portfolio 🎨</p>
+	<h3>🎨 SNS & Portfolio 🎨
 </div>
 <div align=left>
 	<a href="#">
