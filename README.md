@@ -26,7 +26,7 @@
 </div>
 <br>
 <div align=left>
-	<<h3>>🛠 Tools 🛠
+	<h3>🛠 Tools 🛠
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
