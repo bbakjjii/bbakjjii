@@ -3,7 +3,7 @@
 </div>
 
 <div align=left>
-	<h4 bold="weight"> 👩‍💻 ABOUT ME 👩‍💻 </h4>
+	<h1 bold="weight"> 👩‍💻 ABOUT ME 👩‍💻 </h1>
 	<p> 🐵 이름 : 박지영</p>
 	<p> 🍰 생년월일 : 92.02.28 </p>
 	<p> 🏫학력 : 국가평생교육진흥원 학점은행제 경영학사 취득(2021년)
