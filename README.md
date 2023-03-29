@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align=left>
-	<h1 bold="weight">📚 Tech Stack 📚</h1>
+	<h1 bold="weight">📚 TECH STACK 📚</h1>
 	<h3>✨ Languages ✨
 </div>
 <br>
