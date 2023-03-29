@@ -4,10 +4,17 @@
 
 <div align=left>
 	<h1> 👩‍💻 ABOUT ME 👩‍💻 </h1>
-	<h4> 🐵 NAME : 박지영
-	<h4> 🍰 BIRTH : 92.02.28
-	<h4> 🏫 EDUCATION : 국가평생교육진흥원 학점은행제 경영학사 취득(2021년)
+	<h4> 🐵 Name : 박지영
+	<h4> 🍰 Birth : 92.02.28
+	<h4> 🏫 Education : 국가평생교육진흥원 학점은행제 경영학사 취득(2021년)
 	<h4>　　　　　　　　한국관광대학교 호텔조리과(2016년 졸업)
+	<h4> 🧗‍♀️ Hobby : 클라이밍
+</div>
+<br>
+<div align=left>
+	<h1> 💻 PROJECT 💻 </h1>
+	<h4> 01 : Library Management Program (Oracle DB, Java)
+	<h4> 02 : ONORE Handmade Shoes Shopping Mall (Oracle DB, Spring, Spring security, Javascript, JQuery, AJAX, Kakao Map API) 
 </div>
 <br>
 <div align=left>
