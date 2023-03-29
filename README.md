@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=50" />	
 </div>
 
 <div align=left>
@@ -9,11 +9,12 @@
 	<h6> 🏫 학력 : 국가평생교육진흥원 학점은행제 경영학사 취득(2021년)
 	<h6>　　　　　한국관광대학교 호텔조리과(2016년 졸업)
 </div>
-
+<br>
 <div align=left>
 	<h1 bold="weight">📚 Tech Stack 📚</h1>
 	<h3>✨ Languages ✨
 </div>
+<br>
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
