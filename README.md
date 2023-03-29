@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=90" />	
 </div>
 
-<div align=left bolder="solid 1px black">
+<div align=left>
 	<h1 bold="weight"> 👩‍💻 ABOUT ME 👩‍💻 </h1>
 	<p> 🐵 이름 : 박지영</p>
 	<p> 🍰 생년월일 : 92.02.28 </p>
@@ -10,11 +10,9 @@
 	<p>        한국관광대학교 호텔조리과(2016년 졸업) </p>
 </div>
 
-<hr>
-
 <div align=left>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Languages ✨</p>
+	<h1 bold="weight">📚 Tech Stack 📚</h1>
+	<p bold="weight">✨ Languages ✨</p>
 </div>
 <div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
