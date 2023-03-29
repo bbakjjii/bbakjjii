@@ -1,6 +1,21 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=90" />	
 </div>
+
+<div align=center>
+	<h3> 👩‍💻 ABOUT ME 👩‍💻 </h3>
+	<p> 🐵 이름 : 박지영</p>
+	<p> 🍰 생년월일 : 92.02.28 </p>
+	<p> 🏫학력 : 국가평생교육진흥원 학점은행제 경영학사 취득(2021년)
+	<p>        한국관광대학교 호텔조리과(2016년 졸업) </p>
+</div>
+
+<div align=center>
+	<h3> EDUCATION 📚</h3>
+	<p>✨ university : 국가평생교육진흥원 학점은행제 경영학사 ✨</p>
+	<p>✨ university : 한국관광대학교 호텔조리과 ✨</p>
+</div>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages ✨</p>
