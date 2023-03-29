@@ -3,7 +3,7 @@
 </div>
 
 <div align=left>
-	<h1 bold="weight"> 👩‍💻 ABOUT ME 👩‍💻 </h1>
+	<h1> 👩‍💻 ABOUT ME 👩‍💻 </h1>
 	<h4> 🐵 NAME : 박지영
 	<h4> 🍰 BIRTH : 92.02.28
 	<h4> 🏫 EDUCATION : 국가평생교육진흥원 학점은행제 경영학사 취득(2021년)
