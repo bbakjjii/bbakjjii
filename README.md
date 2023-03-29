@@ -37,10 +37,10 @@
 	<a href="#">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:jiyoung0301@hanmail.net">
+	<a href="mailto:#">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/bbakjjii/Begin-My-Own-Trandition-e39666691591460ab631457939bfcd2d">
+	<a href="#">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
